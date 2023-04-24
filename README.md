@@ -1,4 +1,6 @@
 The Game of Checkers
+<img width="915" alt="Screen Shot 2023-04-24 at 10 28 42 AM" src="https://user-images.githubusercontent.com/128996101/234043316-e96ff85c-1b94-4f18-a466-b619ae50ab51.png">
+![wireframe(checkers)](https://user-images.githubusercontent.com/128996101/234043522-43c74ad9-89fb-486f-a81f-ecce145a5134.jpg)
 
 As a user
   - Display an empty checkers board when the page is initially displayed.
@@ -6,6 +8,7 @@ As a user
   - Once the game loads, there will be 1 player and 1 computer player. 
   - The board will be made up of 64 total squares with a black and orange checker board. 
   - The board will have 8 rows and 8 columns. 
+
   - The game will be played using the black squares. 
   - The color choices a player can be are Orange or White.
   - If player chooses Orange, computer will be White; 
