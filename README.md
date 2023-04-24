@@ -94,4 +94,4 @@ As a user
           5.6.2) Total up the three board positions using the three indexes in the current combo.
           5.6.3) Convert the total to an absolute value (convert any negative total to positive).
   5.7) If there's no winner, check if there's a tie:
-          5.7.1) Set winner to 'T' if there are no more nulls in the board array.
+          5.7.1) Set winner to 'T' if there are no more nulls in the board array.# checkers
